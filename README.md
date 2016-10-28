@@ -12,6 +12,7 @@ Installation
 ------------
 
 	git clone https://github.com/hash-bang/ToVIM.git
+	cd ToVIM
 	sudo make install
 
 
